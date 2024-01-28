@@ -18,3 +18,9 @@ blznews*.
 ||steamstatic.com^
 ||steampowered.com^$document
 ||steamgames.com^
+
+! Epic
+
+||epicgames.com^
+||epicgames.com/*/download^$document
+||unrealengine.com^
