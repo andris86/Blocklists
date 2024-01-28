@@ -11,8 +11,6 @@ blznews*.
 
 ! Browser games
 
-||y8.com^
-
 ||powerline.io^
 ||brutal.io^
 ||wings.io^
@@ -23,21 +21,31 @@ blznews*.
 ||defly.io^
 ||superhex.io^
 ||littlebigsnake.com^
+||slither.io^
+
+||amogus.io^
+||hole-io.com^
+||paper-io.com^
 
 ! Platforms
 
 ! Browser Games
 
-||iogames.space
+||iogames.space^
 
 ! Steam
 
 ||steamstatic.com^
 ||steampowered.com^$document
-||steamgames.com^
+||steamgames.com^document
 
 ! Epic
 
 ||epicgames.com^
 ||epicgames.com/*/download^$document
 ||unrealengine.com^
+
+||y8.com^
+||miniclip.com^
+||kongregate.com^
+||addictinggames.com^
