@@ -1,0 +1,7 @@
+! Blizzard
+
+||blizzard.com^
+||battle.net^
+blz-contentstack*.
+||download.battle.net^$document
+bnetcmsus*.
