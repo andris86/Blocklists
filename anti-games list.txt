@@ -16,5 +16,5 @@ blznews*.
 ! Steam
 
 ||steamstatic.com^
-||steampowered.com^
+||steampowered.com^$document
 ||steamgames.com^
