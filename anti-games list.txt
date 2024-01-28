@@ -6,8 +6,8 @@
 ||battle.net^
 blz-contentstack*.
 ||download.battle.net^$document
-bnetcmsus*.
-bnetshopeu*.
+bnetcms*.
+bnetshop*.
 bnetaccount*.
 blznews*.
 
