@@ -7,3 +7,4 @@
 blz-contentstack*.
 ||download.battle.net^$document
 bnetcmsus*.
+blznews*.
