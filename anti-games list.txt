@@ -12,3 +12,9 @@ blznews*.
 ! Browser games
 
 ||y8.com^
+
+! Steam
+
+||steamstatic.com^
+||steampowered.com^
+||steamgames.com^
