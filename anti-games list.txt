@@ -7,6 +7,8 @@
 blz-contentstack*.
 ||download.battle.net^$document
 bnetcmsus*.
+bnetshopeu*.
+bnetaccount*.
 blznews*.
 
 ! Browser games
