@@ -13,6 +13,23 @@ blznews*.
 
 ||y8.com^
 
+||powerline.io^
+||brutal.io^
+||wings.io^
+||agar.io^
+||diep.io^
+||hexanaut.io^
+||copter.io^
+||defly.io^
+||superhex.io^
+||littlebigsnake.com^
+
+! Platforms
+
+! Browser Games
+
+||iogames.space
+
 ! Steam
 
 ||steamstatic.com^
