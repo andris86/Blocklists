@@ -1,0 +1,4 @@
+||google.com^
+||googlevideo.com^
+||ggpht.com^
+||gstatic.com^
