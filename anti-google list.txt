@@ -4,6 +4,9 @@
 ||googleusercontent.com^$all
 ||ggpht.com^$all
 ||gstatic.com^$all
+||withgoogle.com^$all
 
 ||youtube.*^$all
 ||ytimg.com^$all
+||android.com^$all
+||about.google^$all
