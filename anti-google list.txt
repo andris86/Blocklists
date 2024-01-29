@@ -1,3 +1,6 @@
+! Title: Anti-Google list
+! Description: Blocks Google domains
+
 ||google.*^$all
 ||googlevideo.com^$all
 ||googleapis.com^$all
