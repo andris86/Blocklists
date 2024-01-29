@@ -2,10 +2,9 @@
 
 ! Blizzard
 
-||blizzard.com^
-||battle.net^
+||blizzard.com^$all
+||battle.net^$all
 blz-contentstack*.
-||download.battle.net^$document
 bnetcms*.
 bnetshop*.
 bnetaccount*.
@@ -13,41 +12,40 @@ blznews*.
 
 ! Browser games
 
-||powerline.io^
-||brutal.io^
-||wings.io^
-||agar.io^
-||diep.io^
-||hexanaut.io^
-||copter.io^
-||defly.io^
-||superhex.io^
-||littlebigsnake.com^
-||slither.io^
+||powerline.io^$all
+||brutal.io^$all
+||wings.io^$all
+||agar.io^$all
+||diep.io^$all
+||hexanaut.io^$all
+||copter.io^$all
+||defly.io^$all
+||superhex.io^$all
+||littlebigsnake.com^$all
+||slither.io^$all
 
-||amogus.io^
-||hole-io.com^
-||paper-io.com^
+||amogus.io^$all
+||hole-io.com^$all
+||paper-io.com^$all
 
 ! Platforms
 
 ! Browser Games
 
-||iogames.space^
+||iogames.space^$all
 
 ! Steam
 
-||steamstatic.com^
-||steampowered.com^$document
-||steamgames.com^document
+||steamstatic.com^$all
+||steampowered.com^$all
+||steamgames.com^$all
 
 ! Epic
 
-||epicgames.com^
-||epicgames.com/*/download^$document
-||unrealengine.com^
+||epicgames.com^$all
+||unrealengine.com^$all
 
-||y8.com^
-||miniclip.com^
-||kongregate.com^
-||addictinggames.com^
+||y8.com^$all
+||miniclip.com^$all
+||kongregate.com^$all
+||addictinggames.com^$all
