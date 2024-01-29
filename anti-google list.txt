@@ -5,5 +5,5 @@
 ||ggpht.com^
 ||gstatic.com^
 
-||youtube.com^
+||youtube.*^
 ||ytimg.com^
