@@ -1,9 +1,9 @@
-||google.*^
-||googlevideo.com^
-||googleapis.com^
-||googleusercontent.com^
-||ggpht.com^
-||gstatic.com^
+||google.*^$all
+||googlevideo.com^$all
+||googleapis.com^$all
+||googleusercontent.com^$all
+||ggpht.com^$all
+||gstatic.com^$all
 
-||youtube.*^
-||ytimg.com^
+||youtube.*^$all
+||ytimg.com^$all
