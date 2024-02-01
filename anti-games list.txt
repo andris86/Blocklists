@@ -34,6 +34,9 @@ rockstargames.com##a[data-testid="launcherLink"]
 ! CD Projekt
 
 ||cdprojekt.com^$all
+||cdprojektred.com^$all
+||thewitcher.com^$all
+||playgwent.com^$all
 
 ! Frictional
 
