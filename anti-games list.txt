@@ -4,6 +4,7 @@
 
 ||blizzard.com^$all
 ||battle.net^$all
+||playoverwatch.com^$all
 blz-contentstack*.
 bnetcms*.
 bnetshop*.
