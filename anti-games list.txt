@@ -10,6 +10,8 @@ bnetcms*.
 bnetshop*.
 bnetaccount*.
 blznews*.
+##blz-promotion
+##blz-button
 
 ! Plarium
 
@@ -48,6 +50,22 @@ rockstargames.com##a[data-testid="launcherLink"]
 ||amnesiathebunker.com$all
 ||amnesiagame.com^$all
 ||penumbragame.com^$all
+
+! Riot
+
+||riotgames.com^$all
+||riotcdn.net^$all
+||riotforgegames.com^$all
+||playvalorant.com^$all
+||leagueoflegends.com^$all
+||playruneterra.com^$all
+||convrgencegame.com^$all
+||songofnunu.com^$all
+||ruinedking.com^$all
+||themageseeker.com^$all
+||hextechmayhem.com^$all
+lolstatic*.
+
 
 ! Browser games
 
