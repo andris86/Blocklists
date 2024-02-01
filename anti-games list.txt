@@ -18,6 +18,14 @@ blznews*.
 ||x-plarium.com^$all
 plarium.com##a[href^="/en/plarium-play/download-user/"]
 
+! Rockstar
+
+||rockstargames.com^$all
+||rsg.sc^$all
+*rockstargames-com.*
+rockstarsupport*
+rockstar-api.
+rockstargames.com##a[data-testid="launcherLink"]
 
 ! Browser games
 
