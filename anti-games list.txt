@@ -16,6 +16,7 @@ blznews*.
 ||raidshadowlegends.com^$all
 ||plarium.com^$all
 ||x-plarium.com^$all
+plarium.com##a[href^="/en/plarium-play/download-user/"]
 
 
 ! Browser games
@@ -47,6 +48,7 @@ blznews*.
 ||steamstatic.com^$all
 ||steampowered.com^$all
 ||steamgames.com^$all
+steampowered.com##.about_install_steam_link
 
 ! Epic
 
