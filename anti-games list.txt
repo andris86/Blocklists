@@ -27,6 +27,25 @@ rockstarsupport*
 rockstar-api.
 rockstargames.com##a[data-testid="launcherLink"]
 
+! IO interactive
+
+||ioi.dk^$all
+
+! CD Projekt
+
+||cdprojekt.com^$all
+
+! Frictional
+
+||frictionalgames.com^$all
+||amnesiathebunker.com^$all
+||amnesiarebirth.com^$all
+||somagame.com^$all
+||aamfp.com^$all
+||amnesiathebunker.com$all
+||amnesiagame.com^$all
+||penumbragame.com^$all
+
 ! Browser games
 
 ||powerline.io^$all
@@ -62,6 +81,15 @@ steampowered.com##.about_install_steam_link
 
 ||epicgames.com^$all
 ||unrealengine.com^$all
+
+! GOG
+
+||gog.com^$all
+||gog-statics.com^$all
+
+||humblebundle.com^$all
+||playstation.com^$all
+
 
 ||y8.com^$all
 ||miniclip.com^$all
