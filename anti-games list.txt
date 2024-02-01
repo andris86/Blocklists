@@ -11,6 +11,13 @@ bnetshop*.
 bnetaccount*.
 blznews*.
 
+! Plarium
+
+||raidshadowlegends.com^$all
+||plarium.com^$all
+||x-plarium.com^$all
+
+
 ! Browser games
 
 ||powerline.io^$all
