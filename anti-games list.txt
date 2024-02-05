@@ -77,7 +77,8 @@ lolstatic*.
 ||crossout.net^$all
 ||modernwarships.com^$all
 ||crsed.net^$all
-||star-conflict.net^$all
+||star-conflict.com^$all
+##a[href^="https://yupmaster.gaijinent.com"]
 
 ! Browser games
 
