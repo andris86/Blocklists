@@ -80,6 +80,13 @@ lolstatic*.
 ||star-conflict.com^$all
 ##a[href^="https://yupmaster.gaijinent.com"]
 
+! CCP
+
+||ccpgames.com^$all
+||ccpgamescdn.com^$all
+||eveonline.com^$all
+||evegalaxyconquest.com^$all
+
 ! Browser games
 
 ||powerline.io^$all
