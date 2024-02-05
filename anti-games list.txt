@@ -7,6 +7,13 @@
 ||blizzard.com^$all
 ||battle.net^$all
 ||playoverwatch.com^$all
+
+! Hearthstone homepage
+||d39zum0jwvcigt.cloudfront.net^$all
+
+! Blizzard homepage
+||d3ukkjpihy42k4.cloudfront.net^$all
+
 blz-contentstack*.
 bnetcms*.
 bnetshop*.
@@ -87,6 +94,19 @@ lolstatic*.
 ||eveonline.com^$all
 ||evegalaxyconquest.com^$all
 
+! Activision
+
+||activision.com^$all
+||callofduty.com^$all
+||tonyhawkthegame.com^$all
+||sekirothegame.com^$all
+||spyrothedragon.com^$all
+
+! King
+
+||king.com^$all
+*contenido*
+
 ! Browser games
 
 ||powerline.io^$all
@@ -104,6 +124,17 @@ lolstatic*.
 ||amogus.io^$all
 ||hole-io.com^$all
 ||paper-io.com^$all
+
+||humblebundle.com^$all
+||playstation.com^$all
+||nintendo.*^$all
+||nintendo-europe.com^$all
+||itch.io^$all
+||itch.zone^$all
+||gamejolt.com^$all
+||gjcdn.net^$all
+||sierragames.com^$all
+||activisionblizzard.com^$all
 
 ! Platforms
 
@@ -130,15 +161,6 @@ steampowered.com##.about_install_steam_link
 
 ||xbox.com^$all
 ||xboxservices.com^$all
-
-||humblebundle.com^$all
-||playstation.com^$all
-||nintendo.com^$all
-||itch.io^$all
-||itch.zone^$all
-||gamejolt.com^$all
-||gjcdn.net^$all
-
 
 ! Browser Games
 
