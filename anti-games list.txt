@@ -11,6 +11,7 @@ playoverwatch.com##html
 
 raidshadowlegends.com##html
 plarium.com##html
+||plarium.com^$all
 
 ! Rockstar
 
@@ -122,6 +123,7 @@ activisionblizzard.com##html
 
 steamstatic.com##html
 steampowered.com##html
+steamcommunity.com##html
 steamgames.com##html
 
 ! Epic
