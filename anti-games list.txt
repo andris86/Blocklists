@@ -66,6 +66,15 @@ rockstargames.com##a[data-testid="launcherLink"]
 ||hextechmayhem.com^$all
 lolstatic*.
 
+! Gaijin Entertainment
+
+||gaijin.net^$all
+||warthunder.com^$all
+||enlisted.net^$all
+||crossout.net^$all
+||modernwarships.com^$all
+||crsed.net^$all
+||star-conflict.net^$all
 
 ! Browser games
 
@@ -87,10 +96,6 @@ lolstatic*.
 
 ! Platforms
 
-! Browser Games
-
-||iogames.space^$all
-
 ! Steam
 
 ||steamstatic.com^$all
@@ -102,17 +107,36 @@ steampowered.com##.about_install_steam_link
 
 ||epicgames.com^$all
 ||unrealengine.com^$all
+||fortnite.com^$all
+||fallguys.com^$all
 
 ! GOG
 
 ||gog.com^$all
 ||gog-statics.com^$all
 
+! Xbox
+
+||xbox.com^$all
+||xboxservices.com^$all
+
 ||humblebundle.com^$all
 ||playstation.com^$all
+||nintendo.com^$all
+||itch.io^$all
+||itch.zone^$all
+||gamejolt.com^$all
+||gjcdn.net^$all
 
 
+! Browser Games
+
+||iogames.space^$all
 ||y8.com^$all
 ||miniclip.com^$all
 ||kongregate.com^$all
 ||addictinggames.com^$all
+||friv.com^$all
+||kiz10.com^$all
+
+||sonyentertainmentnetwork.com^$all
