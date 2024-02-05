@@ -14,6 +14,15 @@
 ! Blizzard homepage
 ||d3ukkjpihy42k4.cloudfront.net^$all
 
+! Diablo Immortal homepage
+||d1oinwhu0i67tc.cloudfront.net^$all
+
+! Diablo 4 homepage
+||d1airdtt6sf62d.cloudfront.net^$all
+
+! Diablo 2 homepage
+||djzws8h9szclb.cloudfront.net^$all
+
 blz-contentstack*.
 bnetcms*.
 bnetshop*.
@@ -99,6 +108,7 @@ lolstatic*.
 ||activision.com^$all
 ||callofduty.com^$all
 ||tonyhawkthegame.com^$all
+||crashbandicoot.com^$all
 ||sekirothegame.com^$all
 ||spyrothedragon.com^$all
 
