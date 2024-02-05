@@ -1,5 +1,7 @@
 ! Title: Anti-games list
 
+##a:contains(/(Download the game|Download game)/)
+
 ! Blizzard
 
 ||blizzard.com^$all
@@ -69,6 +71,7 @@ lolstatic*.
 ! Gaijin Entertainment
 
 ||gaijin.net^$all
+||gaijinent.com^$all
 ||warthunder.com^$all
 ||enlisted.net^$all
 ||crossout.net^$all
