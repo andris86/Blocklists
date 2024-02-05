@@ -1,187 +1,154 @@
 ! Title: Anti-games list
 
-##a:contains(/(Download the game|Download game)/)
-
 ! Blizzard
 
-||blizzard.com^$all
-||battle.net^$all
-||battle.net^$removeparam
-||playoverwatch.com^$all
-
-! Hearthstone homepage
-||d39zum0jwvcigt.cloudfront.net^$all
-
-! Blizzard homepage
-||d3ukkjpihy42k4.cloudfront.net^$all
-
-! Diablo Immortal homepage
-||d1oinwhu0i67tc.cloudfront.net^$all
-
-! Diablo 4 homepage
-||d1airdtt6sf62d.cloudfront.net^$all
-
-! Diablo 2 homepage
-||djzws8h9szclb.cloudfront.net^$all
-
-blz-contentstack*.
-bnetcms*.
-bnetshop*.
-bnetaccount*.
-blznews*.
-##blz-promotion
-##blz-button
+blizzard.com##html
+battle.net##html
+battle.net^$removeparam
+playoverwatch.com##html
 
 ! Plarium
 
-||raidshadowlegends.com^$all
-||plarium.com^$all
-||x-plarium.com^$all
+raidshadowlegends.com##html
+plarium.com##html
 
 ! Rockstar
 
-||rockstargames.com^$all
-||rsg.sc^$all
-*rockstargames-com.*
-rockstarsupport*
-rockstar-api.
-rockstargames.com##a[data-testid="launcherLink"]
+rockstargames.com##html
+rsg.sc##html
 
 ! IO interactive
 
-||ioi.dk^$all
+ioi.dk##html
 
 ! CD Projekt
 
-||cdprojekt.com^$all
-||cdprojektred.com^$all
-||thewitcher.com^$all
-||playgwent.com^$all
+cdprojekt.com##html
+cdprojektred.com##html
+thewitcher.com##html
+playgwent.com##html
 
 ! Frictional
 
-||frictionalgames.com^$all
-||amnesiathebunker.com^$all
-||amnesiarebirth.com^$all
-||somagame.com^$all
-||aamfp.com^$all
-||amnesiathebunker.com$all
-||amnesiagame.com^$all
-||penumbragame.com^$all
+frictionalgames.com##html
+amnesiathebunker.com##html
+amnesiarebirth.com##html
+somagame.com##html
+aamfp.com##html
+amnesiathebunker.com##html
+amnesiagame.com##html
+penumbragame.com##html
 
 ! Riot
 
-||riotgames.com^$all
-||riotcdn.net^$all
-||riotforgegames.com^$all
-||playvalorant.com^$all
-||leagueoflegends.com^$all
-||playruneterra.com^$all
-||convrgencegame.com^$all
-||songofnunu.com^$all
-||ruinedking.com^$all
-||themageseeker.com^$all
-||hextechmayhem.com^$all
-lolstatic*.
+riotgames.com##html
+riotcdn.net##html
+riotforgegames.com##html
+playvalorant.com##html
+leagueoflegends.com##html
+playruneterra.com##html
+convrgencegame.com##html
+songofnunu.com##html
+ruinedking.com##html
+themageseeker.com##html
+hextechmayhem.com##html
 
 ! Gaijin Entertainment
 
-||gaijin.net^$all
-||gaijin.net^$removeparam
-||gaijinent.com^$all
-||gaijinent.com^$removeparam
-||warthunder.com^$all
-||enlisted.net^$all
-||crossout.net^$all
-||modernwarships.com^$all
-||crsed.net^$all
-||star-conflict.com^$all
+gaijin.net##html
+gaijin.net^$removeparam
+gaijinent.com##html
+gaijinent.com^$removeparam
+warthunder.com##html
+enlisted.net##html
+crossout.net##html
+modernwarships.com##html
+crsed.net##html
+star-conflict.com##html
 
 ! CCP
 
-||ccpgames.com^$all
-||ccpgamescdn.com^$all
-||eveonline.com^$all
-||evegalaxyconquest.com^$all
+ccpgames.com##html
+ccpgamescdn.com##html
+eveonline.com##html
+evegalaxyconquest.com##html
 
 ! Activision
 
-||activision.com^$all
-||callofduty.com^$all
-||tonyhawkthegame.com^$all
-||crashbandicoot.com^$all
-||sekirothegame.com^$all
-||spyrothedragon.com^$all
+activision.com##html
+callofduty.com##html
+tonyhawkthegame.com##html
+crashbandicoot.com##html
+sekirothegame.com##html
+spyrothedragon.com##html
 
 ! King
 
-||king.com^$all
-*contenido*
+king.com##html
 
 ! Browser games
 
-||powerline.io^$all
-||brutal.io^$all
-||wings.io^$all
-||agar.io^$all
-||diep.io^$all
-||hexanaut.io^$all
-||copter.io^$all
-||defly.io^$all
-||superhex.io^$all
-||littlebigsnake.com^$all
-||slither.io^$all
+powerline.io##html
+brutal.io##html
+wings.io##html
+agar.io##html
+diep.io##html
+hexanaut.io##html
+copter.io##html
+defly.io##html
+superhex.io##html
+littlebigsnake.com##html
+slither.io##html
 
-||amogus.io^$all
-||hole-io.com^$all
-||paper-io.com^$all
+amogus.io##html
+hole-io.com##html
+paper-io.com##html
 
-||humblebundle.com^$all
-||playstation.com^$all
-||nintendo.*^$all
-||nintendo-europe.com^$all
-||itch.io^$all
-||itch.zone^$all
+humblebundle.com##html
+playstation.com##html
+nintendo.*##html
+nintendo-europe.com##html
+itch.io##html
+itch.zone##html
 itchio-mirror.*$removeparam
-||gamejolt.com^$all
-||gjcdn.net^$all
-||sierragames.com^$all
-||activisionblizzard.com^$all
+gamejolt.com##html
+gjcdn.net##html
+sierragames.com##html
+activisionblizzard.com##html
 
 ! Platforms
 
 ! Steam
 
-||steamstatic.com^$all
-||steampowered.com^$all
-||steamgames.com^$all
-steampowered.com##.about_install_steam_link
+steamstatic.com##html
+steampowered.com##html
+steamgames.com##html
 
 ! Epic
 
-||epicgames.com^$all
-||unrealengine.com^$all
-||fortnite.com^$all
-||fallguys.com^$all
+epicgames.com##html
+unrealengine.com##html
+fortnite.com##html
+fallguys.com##html
 
 ! GOG
 
-||gog.com^$all
-||gog-statics.com^$all
+gog.com##html
+gog-statics.com##html
 
 ! Xbox
 
-||xbox.com^$all
-||xboxservices.com^$all
+xbox.com##html
+xboxservices.com##html
 
 ! Browser Games
 
-||iogames.space^$all
-||y8.com^$all
-||miniclip.com^$all
-||kongregate.com^$all
-||addictinggames.com^$all
-||friv.com^$all
-||kiz10.com^$all
+iogames.space##html
+y8.com##html
+miniclip.com##html
+kongregate.com##html
+addictinggames.com##html
+friv.com##html
+kiz10.com##html
 
-||sonyentertainmentnetwork.com^$all
+sonyentertainmentnetwork.com##html
