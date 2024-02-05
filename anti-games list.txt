@@ -6,6 +6,7 @@
 
 ||blizzard.com^$all
 ||battle.net^$all
+||battle.net^$removeparam
 ||playoverwatch.com^$all
 
 ! Hearthstone homepage
@@ -36,7 +37,6 @@ blznews*.
 ||raidshadowlegends.com^$all
 ||plarium.com^$all
 ||x-plarium.com^$all
-plarium.com##a[href^="/en/plarium-play/download-user/"]
 
 ! Rockstar
 
@@ -87,14 +87,15 @@ lolstatic*.
 ! Gaijin Entertainment
 
 ||gaijin.net^$all
+||gaijin.net^$removeparam
 ||gaijinent.com^$all
+||gaijinent.com^$removeparam
 ||warthunder.com^$all
 ||enlisted.net^$all
 ||crossout.net^$all
 ||modernwarships.com^$all
 ||crsed.net^$all
 ||star-conflict.com^$all
-##a[href^="https://yupmaster.gaijinent.com"]
 
 ! CCP
 
@@ -141,6 +142,7 @@ lolstatic*.
 ||nintendo-europe.com^$all
 ||itch.io^$all
 ||itch.zone^$all
+itchio-mirror.*$removeparam
 ||gamejolt.com^$all
 ||gjcdn.net^$all
 ||sierragames.com^$all
