@@ -87,6 +87,8 @@ spyrothedragon.com##html
 
 king.com##html
 
+activisionblizzard.com##html
+
 ! Browser games
 
 powerline.io##html
@@ -100,22 +102,44 @@ defly.io##html
 superhex.io##html
 littlebigsnake.com##html
 slither.io##html
+gulper.io##html
+bloxd.io##html
+snake.io##html
+evowars.io##html
+deadshot.io##html
+gigga.io##html
+tileman.io##html
+sandstrike.io##html
+ovo.io##html
+stug.io##html
+battledudes.io##html
+voxiom.io##html
+cubes2048io.com##html
+kirka.io##html
+holey.io##html
+taming.io##html
+ev.io##html
+worms.zone##html
+minigiants.io##html
+mk48.io##html
+warcall.io##html
+sploop.io##html
+thelast.io##html
+2077.io##html
+combines.io##html
+drawar.io##html
+goosegame.io##html
+flyufo.io##html
+betrayal.io##html
+krunker.io##html
+moomoo.io##html
+deeeep.io##html
+jumpfall.io##html
 
 amogus.io##html
 hole-io.com##html
 paper-io.com##html
 
-humblebundle.com##html
-playstation.com##html
-nintendo.*##html
-nintendo-europe.com##html
-itch.io##html
-itch.zone##html
-itchio-mirror.*$removeparam
-gamejolt.com##html
-gjcdn.net##html
-sierragames.com##html
-activisionblizzard.com##html
 
 ! Platforms
 
@@ -143,8 +167,16 @@ gog-statics.com##html
 xbox.com##html
 xboxservices.com##html
 
-! Browser Games
-
+humblebundle.com##html
+playstation.com##html
+nintendo.*##html
+nintendo-europe.com##html
+itch.io##html
+itch.zone##html
+itchio-mirror.*$removeparam
+gamejolt.com##html
+gjcdn.net##html
+sierragames.com##html
 iogames.space##html
 y8.com##html
 miniclip.com##html
@@ -152,5 +184,6 @@ kongregate.com##html
 addictinggames.com##html
 friv.com##html
 kiz10.com##html
+kevin.games##html
 
 sonyentertainmentnetwork.com##html
