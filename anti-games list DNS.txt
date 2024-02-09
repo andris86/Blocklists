@@ -1,0 +1,166 @@
+! Title: Anti-games list
+
+! Blizzard
+
+||blizzard.com^
+||battle.net^
+||playoverwatch.com^
+
+! Hearthstone homepage
+||d39zum0jwvcigt.cloudfront.net^
+
+! Blizzard homepage
+||d3ukkjpihy42k4.cloudfront.net^
+
+! Diablo Immortal homepage
+||d1oinwhu0i67tc.cloudfront.net^
+
+! Diablo 4 homepage
+||d1airdtt6sf62d.cloudfront.net^
+
+! Diablo 2 homepage
+||djzws8h9szclb.cloudfront.net^
+
+! Plarium
+
+||raidshadowlegends.com^
+||plarium.com^
+||x-plarium.com^
+
+! Rockstar
+
+||rockstargames.com^
+||rsg.sc^
+
+! IO interactive
+
+||ioi.dk^
+
+! CD Projekt
+
+||cdprojekt.com^
+||cdprojektred.com^
+||thewitcher.com^
+||playgwent.com^
+
+! Frictional
+
+||frictionalgames.com^
+||amnesiathebunker.com^
+||amnesiarebirth.com^
+||somagame.com^
+||aamfp.com^
+||amnesiathebunker.com
+||amnesiagame.com^
+||penumbragame.com^
+
+! Riot
+
+||riotgames.com^
+||riotcdn.net^
+||riotforgegames.com^
+||playvalorant.com^
+||leagueoflegends.com^
+||playruneterra.com^
+||convrgencegame.com^
+||songofnunu.com^
+||ruinedking.com^
+||themageseeker.com^
+||hextechmayhem.com^
+
+! Gaijin Entertainment
+
+||gaijin.net^
+||gaijinent.com^
+||warthunder.com^
+||enlisted.net^
+||crossout.net^
+||modernwarships.com^
+||crsed.net^
+||star-conflict.com^
+
+! CCP
+
+||ccpgames.com^
+||ccpgamescdn.com^
+||eveonline.com^
+||evegalaxyconquest.com^
+
+! Activision
+
+||activision.com^
+||callofduty.com^
+||tonyhawkthegame.com^
+||crashbandicoot.com^
+||sekirothegame.com^
+||spyrothedragon.com^
+
+! King
+
+||king.com^
+
+! Browser games
+
+||powerline.io^
+||brutal.io^
+||wings.io^
+||agar.io^
+||diep.io^
+||hexanaut.io^
+||copter.io^
+||defly.io^
+||superhex.io^
+||littlebigsnake.com^
+||slither.io^
+
+||amogus.io^
+||hole-io.com^
+||paper-io.com^
+
+||humblebundle.com^
+||playstation.com^
+||nintendo.*^
+||nintendo-europe.com^
+||itch.io^
+||itch.zone^
+||gamejolt.com^
+||gjcdn.net^
+||sierragames.com^
+||activisionblizzard.com^
+
+! Platforms
+
+! Steam
+
+||steamstatic.com^
+||steampowered.com^
+||steamgames.com^
+
+! Epic
+
+||epicgames.com^
+||unrealengine.com^
+||fortnite.com^
+||fallguys.com^
+
+! GOG
+
+||gog.com^
+||gog-statics.com^
+
+! Xbox
+
+||xbox.com^
+||xboxservices.com^
+
+! Browser Games
+
+||iogames.space^
+||y8.com^
+||miniclip.com^
+||kongregate.com^
+||addictinggames.com^
+||friv.com^
+||kiz10.com^
+
+||sonyentertainmentnetwork.com^
