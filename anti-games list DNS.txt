@@ -134,6 +134,7 @@
 
 ||steamstatic.com^
 ||steampowered.com^
+||steamcommunity.com^
 ||steamgames.com^
 
 ! Epic
