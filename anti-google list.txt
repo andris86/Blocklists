@@ -13,3 +13,13 @@
 ||ytimg.com^$all
 ||android.com^$all
 ||about.google^$all
+
+||doubleclick.net^$all
+||googlesyndication.com^$all
+||googletagmanager.com^$all
+||googletagservices.com^$all
+||googleadservices.com^$all
+||google-analytics.com^$all
+
+||app-measurement.com^$all
+||crashlytics.com^$all
