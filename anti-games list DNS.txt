@@ -99,6 +99,14 @@
 
 ||king.com^
 
+! Ubisoft
+
+||ubisoft.com^
+||ubi.com^
+||ubi.li^
+
+||activisionblizzard.com^
+
 ! Browser games
 
 ||powerline.io^
@@ -112,21 +120,44 @@
 ||superhex.io^
 ||littlebigsnake.com^
 ||slither.io^
+||gulper.io^
+||bloxd.io^
+||snake.io^
+||evowars.io^
+||deadshot.io^
+||gigga.io^
+||tileman.io^
+||sandstrike.io^
+||ovo.io^
+||stug.io^
+||battledudes.io^
+||voxiom.io^
+||cubes2048io.com^
+||kirka.io^
+||holey.io^
+||taming.io^
+||ev.io^
+||worms.zone^
+||minigiants.io^
+||mk48.io^
+||warcall.io^
+||sploop.io^
+||thelast.io^
+||2077.io^
+||combines.io^
+||drawar.io^
+||goosegame.io^
+||flyufo.io^
+||betrayal.io^
+||krunker.io^
+||moomoo.io^
+||deeeep.io^
+||jumpfall.io^
 
 ||amogus.io^
 ||hole-io.com^
 ||paper-io.com^
 
-||humblebundle.com^
-||playstation.com^
-||nintendo.*^
-||nintendo-europe.com^
-||itch.io^
-||itch.zone^
-||gamejolt.com^
-||gjcdn.net^
-||sierragames.com^
-||activisionblizzard.com^
 
 ! Platforms
 
@@ -154,8 +185,16 @@
 ||xbox.com^
 ||xboxservices.com^
 
-! Browser Games
-
+||humblebundle.com^
+||playstation.com^
+||nintendo.*^
+||nintendo-europe.com^
+||itch.io^
+||itch.zone^
+||itchio-mirror.*^
+||gamejolt.com^
+||gjcdn.net^
+||sierragames.com^
 ||iogames.space^
 ||y8.com^
 ||miniclip.com^
@@ -163,5 +202,6 @@
 ||addictinggames.com^
 ||friv.com^
 ||kiz10.com^
+||kevin.games^
 
 ||sonyentertainmentnetwork.com^

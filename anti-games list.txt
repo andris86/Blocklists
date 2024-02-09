@@ -87,6 +87,12 @@ spyrothedragon.com##html
 
 king.com##html
 
+! Ubisoft
+
+ubisoft.com##html
+ubi.com##html
+
+
 activisionblizzard.com##html
 
 ! Browser games
