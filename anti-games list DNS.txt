@@ -105,7 +105,10 @@
 ||ubi.com^
 ||ubi.li^
 
-||activisionblizzard.com^
+! Mojang
+
+||minecraft.net^
+||mojang.com^
 
 ! Browser games
 
@@ -187,7 +190,8 @@
 
 ||humblebundle.com^
 ||playstation.com^
-||nintendo.*^
+||nintendo.com^
+||nintendo.co.uk^
 ||nintendo-europe.com^
 ||itch.io^
 ||itch.zone^
@@ -205,3 +209,6 @@
 ||kevin.games^
 
 ||sonyentertainmentnetwork.com^
+||activisionblizzard.com^
+||legendaryroad.net^
+||kingsgroupgames.com^

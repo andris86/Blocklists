@@ -1,13 +1,14 @@
 ! Title: Anti-Google list
 ! Description: Blocks Google domains
 
-||google.*^$all
+||google.com^$all
 ||googlevideo.com^$all
 ||googleapis.com^$all
 ||googleusercontent.com^$all
 ||ggpht.com^$all
 ||gstatic.com^$all
 ||withgoogle.com^$all
+||googleoptimize.com^$all
 
 ||youtube.*^$all
 ||ytimg.com^$all
