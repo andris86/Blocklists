@@ -9,6 +9,7 @@
 ||gstatic.com^
 ||withgoogle.com^
 ||googleoptimize.com^
+||googledomains.com^
 
 ||youtube.com^
 ||ytimg.com^
