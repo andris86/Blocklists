@@ -1,0 +1,25 @@
+! Responsible for ad loading
+||g.doubleclick.net^
+! Responsible for video ads in some websites
+||imasdk.googleapis.com^
+
+
+||server.cpmstar.com^
+||ncdn.gameads.io^
+||s1.adform.net^
+||server.ethicalads.io^
+||ad.a-ads.com^
+||runative-syndicate.com^
+||served-by.pixfuture.com^
+||jsc.adskeeper.com^
+||www.asadcdn.com^
+||widgets.outbrain.com^
+
+||recipientpopulationregret.com^
+||altowriestwispy.com^
+||dilateriotcosmetic.com^
+
+||bmcdn6.com^
+
+||af1.delphi.lv^
+||b.adbox.lv^
