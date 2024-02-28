@@ -1,3 +1,6 @@
+! Title: Advertisements filter
+
+||pagead2.googlesyndication.com^
 ! Responsible for ad loading
 ||g.doubleclick.net^
 ! Responsible for video ads in some websites
@@ -11,15 +14,23 @@
 ||ad.a-ads.com^
 ||runative-syndicate.com^
 ||served-by.pixfuture.com^
+||serv-vdo.pixfuture.com^
 ||jsc.adskeeper.com^
 ||www.asadcdn.com^
 ||widgets.outbrain.com^
+||services.vlitag.com^
+||ads.themoneytizer.com^
+||bmcdn6.com^
+||coinzillatag.com^
 
 ||recipientpopulationregret.com^
 ||altowriestwispy.com^
 ||dilateriotcosmetic.com^
+||topcreativeformat.com^
+||highperformancedisplayformat.com^
 
-||bmcdn6.com^
+||a.exdynsrv.com^
+||a.magsrv.com^
 
 ||af1.delphi.lv^
 ||b.adbox.lv^

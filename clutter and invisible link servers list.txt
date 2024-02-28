@@ -1,11 +1,16 @@
+! Title: Clutter and Invisible Link filter
 ! Description: Blocks domains that serve useless clutter that aren't ads and place invisible links which user can accidentally click and get taken to undesired websites
 
 ||arriagepuly.top^
 
 ||augaiksu.xyz^
+||pogothere.xyz^
+||parrecleftne.xyz^
 
 ||gloaphoo.net^
 ||ausoafab.net^
+||eergortu.net^
+||vaitotoo.net^
 
 ||cmlwaup.com^
 
@@ -20,15 +25,23 @@
 ||quartaherbist.com^
 ||intinepollist.com^
 ||streitmackled.com^
+||sensifyfugged.com^
 
 ||taghaugh.com^
 ||reepteen.com^
 ||waisheph.com^
 ||glersakr.com^
 ||thubanoa.com^
+||zunsoach.com^
+||ophoacit.com^
+||ookroush.com^
+||whulsaux.com^
 
 ||galeaeevovae.com^
 ||miltlametta.com^
+||rndskittytor.com^
+||dukingdraon.com^
+||uswardwot.com^
 
 ||brunchcreatesenses.com^
 ||keydawnawe.com^
@@ -36,6 +49,11 @@
 ||lg.kerryfluence.com^
 ||xv.primalredfish.com^
 
+||cdn.engine.4dsply.com^
+
 ! Cloudfront block
 
 ||d34gjfm75zhp78.cloudfront.net^
+! Fake download buttons
+||d20903hof2l33q.cloudfront.net^
+||d3q33rbmdkxzj.cloudfront.net^
