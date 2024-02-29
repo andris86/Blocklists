@@ -2,3 +2,4 @@
 ! Description: Blocks domains that ask for permission to abuse them against the user
 
 ||nxt-psh.com^
+||graipeepoo.com^

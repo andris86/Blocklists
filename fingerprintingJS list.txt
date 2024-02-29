@@ -1,2 +1,5 @@
+! Title: Anti-fingerprintingJS list
+
 ||d18t35yyry2k49.cloudfront.net^
 ||d2pspvbdjxwkpo.cloudfront.net^
+||d1f05vr3sjsuy7.cloudfront.net

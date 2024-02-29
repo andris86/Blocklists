@@ -1,5 +1,8 @@
 ! Title: Clutter and Invisible Link filter
-! Description: Blocks domains that serve useless clutter that aren't ads and place invisible links which user can accidentally click and get taken to undesired websites
+! Description: Recommended filter. Blocks domains that serve useless clutter that aren't ads and place invisible links. If user clicks these elements, they can get taken 
+! to undesired websites or even malware and scams.
+
+||visitscorporateinstantly.com^
 
 ||arriagepuly.top^
 
@@ -11,21 +14,45 @@
 ||ausoafab.net^
 ||eergortu.net^
 ||vaitotoo.net^
+||nossairt.net^
+||afeerdah.net^
+||zirdough.net^
+||potsaglu.net^
+||ptawhood.net^
+||jewhouca.net^
 
 ||cmlwaup.com^
+||mxgboxq.com^
 
 ||cathedralinthei.info^
 ||ourtshipanditlas.info^
 ||anopportunitytost.info^
 
-||consukultingeca.com^
 ||drizzlefirework.com^
+||superiorityfriction.com^
+||forfeitsubscribe.com^
+||gnashesfanfare.com^
+||variabilityproducing.com^
+||pargaspforbidden.com^
+||outbursttones.com^
+||fountaincheek.com^
+
+! Open new browser windows each time it's iframe is clicked
+||coinblocktyrusmiram.com^
+
+||consukultingeca.com^
+||outoctillerytor.com^
+||foolishjunction.com^
 
 ||redebitapedom.com^
 ||quartaherbist.com^
 ||intinepollist.com^
 ||streitmackled.com^
 ||sensifyfugged.com^
+||bharalhallahs.com^
+||papmeatidigbo.com^
+||markedoneofth.com^
+||forbidcrenels.com^
 
 ||taghaugh.com^
 ||reepteen.com^
@@ -36,20 +63,47 @@
 ||ophoacit.com^
 ||ookroush.com^
 ||whulsaux.com^
+||eephaush.com^
+||hoglinsu.com^
+||meenetiy.com^
+
+||uswardwot.com^
+||ofleafeona.com^
+
+||miltlametta.com^
+||dukingdraon.com^
+||boyunakylie.com^
 
 ||galeaeevovae.com^
-||miltlametta.com^
 ||rndskittytor.com^
-||dukingdraon.com^
-||uswardwot.com^
+||oppoteammate.com^
+||worstideatum.com^
 
 ||brunchcreatesenses.com^
 ||keydawnawe.com^
+||carpfreshtying.com^
 
 ||lg.kerryfluence.com^
 ||xv.primalredfish.com^
+! Scam popup on himovies.sx
+
+||hn.hoopersnonpoet.com^
+||bc.loketsaucy.com^
+||ke.durhamoryssus.com^
+||fk.mituhejiras.com^
+||qj.asokapygmoid.com^
+||pr.lipurialauroyl.com^
+||nu.colenhackbut.com^
+||ak.butinehamal.com^
+||ta.januaryverby.com^
+||uf.persicrejolt.com^
+||bz.milkerpreppie.com^
+||ms.tierbacilli.com^
+||fz.ansariebezzo.com^
+||kg.teiidsfortune.com^
 
 ||cdn.engine.4dsply.com^
+||c.adsco.re^
 
 ! Cloudfront block
 

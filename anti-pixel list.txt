@@ -1,0 +1,8 @@
+! Title: Anti-pixel list
+
+||prd.jwpltx.com^
+||cdn.viglink.com^
+||referrer.disqus.com^
+||counter.yadro.ru^
+||videocdnshop.com^
+||idocdn.com^

@@ -23,6 +23,7 @@
 ||bmcdn6.com^
 ||coinzillatag.com^
 
+||informantbartonharass.com^
 ||recipientpopulationregret.com^
 ||altowriestwispy.com^
 ||dilateriotcosmetic.com^
@@ -31,6 +32,8 @@
 
 ||a.exdynsrv.com^
 ||a.magsrv.com^
+
+||kaas1.b-cdn.net^
 
 ||af1.delphi.lv^
 ||b.adbox.lv^

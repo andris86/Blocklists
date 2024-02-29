@@ -1,0 +1,23 @@
+! Title: anti-redirect list
+
+||marazma.com^
+||xml.popmansion.com^
+||xml.blue-biddingz.org^
+||clickfilter.co^
+||gaming001.site^
+||filter.realtime-bid.com^
+||filter.highsea.fun^
+||track.sportsolutions.info^
+||tracking.skymobi.agency^
+||locooler-ageneral.com^
+
+||ak.deghooda.net^
+||ak.arwobaton.com^
+||ak.koogreep.com^
+||ak.peethach.com^
+||ak.atdeerlinga.com^
+||ak.lebratent.com^
+
+||sumsoula.top^
+||turfganev.top^
+||nektonkeyways.top^
