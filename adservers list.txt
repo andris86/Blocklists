@@ -22,6 +22,7 @@
 ||ads.themoneytizer.com^
 ||bmcdn6.com^
 ||coinzillatag.com^
+||cdn.pubfuture-ad.com^
 
 ||informantbartonharass.com^
 ||recipientpopulationregret.com^

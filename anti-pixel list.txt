@@ -6,3 +6,4 @@
 ||counter.yadro.ru^
 ||videocdnshop.com^
 ||idocdn.com^
+||b.delivery.consentmanager.net^

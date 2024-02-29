@@ -1,8 +1,11 @@
 ! Title: Clutter and Invisible Link filter
-! Description: Recommended filter. Blocks domains that serve useless clutter that aren't ads and place invisible links. If user clicks these elements, they can get taken 
+! Description: Recommended filter. Blocks domains that serve useless clutter and place invisible links. If user clicks these elements, they can get taken 
 ! to undesired websites or even malware and scams.
 
 ||visitscorporateinstantly.com^
+||brunchcreatesenses.com^
+||keydawnawe.com^
+||carpfreshtying.com^
 
 ||arriagepuly.top^
 
@@ -23,8 +26,10 @@
 
 ||cmlwaup.com^
 ||mxgboxq.com^
+||dhkecbu.com^
 
 ||cathedralinthei.info^
+||oaksandtheircle.info^
 ||ourtshipanditlas.info^
 ||anopportunitytost.info^
 
@@ -53,6 +58,7 @@
 ||papmeatidigbo.com^
 ||markedoneofth.com^
 ||forbidcrenels.com^
+||ecentalsindus.com^
 
 ||taghaugh.com^
 ||reepteen.com^
@@ -73,21 +79,18 @@
 ||miltlametta.com^
 ||dukingdraon.com^
 ||boyunakylie.com^
+||berrieralbe.com^
 
 ||galeaeevovae.com^
 ||rndskittytor.com^
 ||oppoteammate.com^
 ||worstideatum.com^
 
-||brunchcreatesenses.com^
-||keydawnawe.com^
-||carpfreshtying.com^
-
 ||lg.kerryfluence.com^
 ||xv.primalredfish.com^
 ! Scam popup on himovies.sx
-
 ||hn.hoopersnonpoet.com^
+
 ||bc.loketsaucy.com^
 ||ke.durhamoryssus.com^
 ||fk.mituhejiras.com^
@@ -101,9 +104,13 @@
 ||ms.tierbacilli.com^
 ||fz.ansariebezzo.com^
 ||kg.teiidsfortune.com^
+||ah.crateshoover.com^
 
 ||cdn.engine.4dsply.com^
 ||c.adsco.re^
+! ||pl16307994.toprevenuegate.com^ at skidrowcodex.net
+||toprevenuegate.com^
+||can-get-some.in^
 
 ! Cloudfront block
 
