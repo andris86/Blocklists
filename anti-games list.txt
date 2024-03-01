@@ -247,6 +247,9 @@ itchio-mirror.*$removeparam
 ||webgames.io^
 ||crazygames.com^
 ||gamedistribution.com^
+||iogames.onl^
+||html5-games.io^
+||poki.com^
 
 ! Non-categorized game related sites
 
