@@ -1,4 +1,4 @@
-! Title: Anti-pixel list
+! Title: Pixel filter
 
 ||prd.jwpltx.com^
 ||cdn.viglink.com^
@@ -7,3 +7,12 @@
 ||videocdnshop.com^
 ||idocdn.com^
 ||b.delivery.consentmanager.net^
+||pixel.quantserve.com^
+||syndication.twitter.com^
+||ad.360yield.com^
+||x.bidswitch.net^
+||ib.adnxs.com^
+||pixel.rubiconproject.com^
+||creativecdn.com^
+||cdn.indexww.com^
+||pbs.optidigital.com^

@@ -1,4 +1,4 @@
-! Title: Permissions askers list
+! Title: Permissions askers filter
 ! Description: Blocks domains that ask for permission to abuse them against the user
 
 ||nxt-psh.com^

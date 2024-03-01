@@ -1,4 +1,4 @@
-! Title: Anti-fingerprintingJS list
+! Title: FingerprintingJS filter
 
 ||d18t35yyry2k49.cloudfront.net^
 ||d2pspvbdjxwkpo.cloudfront.net^

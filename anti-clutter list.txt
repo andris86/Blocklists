@@ -1,0 +1,6 @@
+! Title: Clutter filter
+! Description: Blocks clutter that is not neccessary for website to function
+
+! Unrelated videos:
+
+||cnt.trvdp.com^

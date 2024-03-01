@@ -1,11 +1,20 @@
-! Title: Clutter and Invisible Link filter
+! Title: Malvertising filter
 ! Description: Recommended filter. Blocks domains that serve useless clutter and place invisible links. If user clicks these elements, they can get taken 
 ! to undesired websites or even malware and scams.
 
 ||visitscorporateinstantly.com^
+||slammedinstructiondisc.com^
+||killerrubacknowledge.com^
 ||brunchcreatesenses.com^
 ||keydawnawe.com^
 ||carpfreshtying.com^
+||sweptbroadarchly.com^
+||informantbartonharass.com^
+||recipientpopulationregret.com^
+||altowriestwispy.com^
+||dilateriotcosmetic.com^
+||topcreativeformat.com^
+||highperformancedisplayformat.com^
 
 ||arriagepuly.top^
 
@@ -41,6 +50,8 @@
 ||pargaspforbidden.com^
 ||outbursttones.com^
 ||fountaincheek.com^
+||shortlyamusement.com^
+||philosophydictation.com^
 
 ! Open new browser windows each time it's iframe is clicked
 ||coinblocktyrusmiram.com^
@@ -59,6 +70,7 @@
 ||markedoneofth.com^
 ||forbidcrenels.com^
 ||ecentalsindus.com^
+||missitzantiot.com^
 
 ||taghaugh.com^
 ||reepteen.com^
@@ -105,12 +117,15 @@
 ||fz.ansariebezzo.com^
 ||kg.teiidsfortune.com^
 ||ah.crateshoover.com^
+||wy.remockdazzle.com^
+||bi.epilreoffer.com^
 
 ||cdn.engine.4dsply.com^
 ||c.adsco.re^
 ! ||pl16307994.toprevenuegate.com^ at skidrowcodex.net
 ||toprevenuegate.com^
 ||can-get-some.in^
+||acscdn.com^
 
 ! Cloudfront block
 

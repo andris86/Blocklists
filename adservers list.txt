@@ -6,7 +6,6 @@
 ! Responsible for video ads in some websites
 ||imasdk.googleapis.com^
 
-
 ||server.cpmstar.com^
 ||ncdn.gameads.io^
 ||s1.adform.net^
@@ -23,13 +22,6 @@
 ||bmcdn6.com^
 ||coinzillatag.com^
 ||cdn.pubfuture-ad.com^
-
-||informantbartonharass.com^
-||recipientpopulationregret.com^
-||altowriestwispy.com^
-||dilateriotcosmetic.com^
-||topcreativeformat.com^
-||highperformancedisplayformat.com^
 
 ||a.exdynsrv.com^
 ||a.magsrv.com^

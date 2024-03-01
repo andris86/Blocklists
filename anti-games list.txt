@@ -1,0 +1,254 @@
+! Title: Anti-games list
+
+##a:contains(/(Download the game|Download game)/)
+
+! Blizzard
+
+||blizzard.com^ 
+||battle.net^ 
+||battle.net^$removeparam
+||playoverwatch.com^ 
+
+! Hearthstone homepage
+||d39zum0jwvcigt.cloudfront.net^ 
+
+! Blizzard homepage
+||d3ukkjpihy42k4.cloudfront.net^ 
+
+! Diablo Immortal homepage
+||d1oinwhu0i67tc.cloudfront.net^ 
+
+! Diablo 4 homepage
+||d1airdtt6sf62d.cloudfront.net^ 
+
+! Diablo 2 homepage
+||djzws8h9szclb.cloudfront.net^ 
+
+blz-contentstack*.
+bnetcms*.
+bnetshop*.
+bnetaccount*.
+blznews*.
+##blz-promotion
+##blz-button
+
+! Plarium
+
+||raidshadowlegends.com^ 
+||plarium.com^ 
+||x-plarium.com^ 
+
+! Rockstar
+
+||rockstargames.com^ 
+||rsg.sc^ 
+*rockstargames-com.*
+rockstarsupport*
+rockstar-api.
+rockstargames.com##a[data-testid="launcherLink"]
+
+! IO interactive
+
+||ioi.dk^ 
+
+! CD Projekt
+
+||cdprojekt.com^ 
+||cdprojektred.com^ 
+||thewitcher.com^ 
+||playgwent.com^ 
+
+! Frictional
+
+||frictionalgames.com^ 
+||amnesiathebunker.com^ 
+||amnesiarebirth.com^ 
+||somagame.com^ 
+||aamfp.com^ 
+||amnesiathebunker.com 
+||amnesiagame.com^ 
+||penumbragame.com^ 
+
+! Riot
+
+||riotgames.com^ 
+||riotcdn.net^ 
+||riotforgegames.com^ 
+||playvalorant.com^ 
+||leagueoflegends.com^ 
+||playruneterra.com^ 
+||convrgencegame.com^ 
+||songofnunu.com^ 
+||ruinedking.com^ 
+||themageseeker.com^ 
+||hextechmayhem.com^ 
+lolstatic*.
+
+! Gaijin Entertainment
+
+||gaijin.net^ 
+||gaijin.net^$removeparam
+||gaijinent.com^ 
+||gaijinent.com^$removeparam
+||warthunder.com^ 
+||enlisted.net^ 
+||crossout.net^ 
+||modernwarships.com^ 
+||crsed.net^ 
+||star-conflict.com^ 
+
+! CCP
+
+||ccpgames.com^ 
+||ccpgamescdn.com^ 
+||eveonline.com^ 
+||evegalaxyconquest.com^ 
+
+! Activision
+
+||activision.com^ 
+||callofduty.com^ 
+||tonyhawkthegame.com^ 
+||crashbandicoot.com^ 
+||sekirothegame.com^ 
+||spyrothedragon.com^ 
+
+! King
+
+||king.com^ 
+*contenido*
+
+! Ubisoft
+
+||ubisoft.com^
+||ubi.com^
+
+
+||legendaryroad.net^
+||kingsgroupgames.com^
+
+! Browser games
+
+||powerline.io^ 
+||brutal.io^ 
+||wings.io^ 
+||agar.io^ 
+||diep.io^ 
+||hexanaut.io^ 
+||copter.io^ 
+||defly.io^ 
+||superhex.io^ 
+||littlebigsnake.com^ 
+||slither.io^
+||gulper.io^
+||bloxd.io^
+||snake.io^
+||evowars.io^
+||deadshot.io^
+||gigga.io^
+||tileman.io^
+||sandstrike.io^
+||ovo.io^
+||stug.io^
+||battledudes.io^
+||voxiom.io^
+||cubes2048io.com^
+||kirka.io^
+||holey.io^
+||taming.io^
+||ev.io^
+||worms.zone^
+||minigiants.io^
+||mk48.io^
+||warcall.io^
+||sploop.io^
+||thelast.io^
+||2077.io^
+||combines.io^
+||drawar.io^
+||goosegame.io^
+||flyufo.io^
+||betrayal.io^
+||krunker.io^
+||moomoo.io^
+||deeeep.io^
+||jumpfall.io^
+||starblast.io^
+||mageclash.io^
+||monstermadness.io^
+||grix.io^
+||amogus.io^ 
+||hole-io.com^ 
+||paper-io.com^
+||krew.io^
+||ferge2.io^
+||stellarclash.io^
+||realmz.io^
+||lurkers.io^
+||clanker.io^
+||koxo.io^
+||venge.io^
+||royaledudes.io^
+||stabfish2.io^
+||lastmagestanding.com^
+||yp3d.com^
+||play.diebrary.rip^
+||xwilkinx.com^
+
+! Platforms
+
+! Steam
+
+||steamstatic.com^ 
+||steampowered.com^ 
+||steamgames.com^
+||valvesoftware.com^
+steampowered.com##html
+
+! Epic
+
+||epicgames.com^ 
+||unrealengine.com^ 
+||fortnite.com^ 
+||fallguys.com^ 
+
+! GOG
+
+||gog.com^ 
+||gog-statics.com^ 
+
+! Xbox
+
+||xbox.com^ 
+||xboxservices.com^
+
+
+||humblebundle.com^ 
+||playstation.com^ 
+||nintendo.*^ 
+||nintendo-europe.com^ 
+||itch.io^ 
+||itch.zone^ 
+itchio-mirror.*$removeparam
+||gamejolt.com^ 
+||gjcdn.net^ 
+||sierragames.com^ 
+
+! Browser game platforms
+
+||iogames.space^ 
+||y8.com^ 
+||miniclip.com^ 
+||kongregate.com^ 
+||addictinggames.com^ 
+||friv.com^ 
+||kiz10.com^
+||kevin.games^
+||webgames.io^
+||crazygames.com^
+||gamedistribution.com^
+
+! Non-categorized game related sites
+
+||activisionblizzard.com^ 
+||sonyentertainmentnetwork.com^ 

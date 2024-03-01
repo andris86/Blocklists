@@ -1,4 +1,4 @@
-! Title: anti-redirect list
+! Title: Redirect filter
 
 ||marazma.com^
 ||xml.popmansion.com^
@@ -17,6 +17,8 @@
 ||ak.peethach.com^
 ||ak.atdeerlinga.com^
 ||ak.lebratent.com^
+||ak.phumpauk.com^
+||ak.karwobeton.com^
 
 ||sumsoula.top^
 ||turfganev.top^
